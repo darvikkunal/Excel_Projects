@@ -3,6 +3,8 @@
 ## Project Overview
 This project involves extracting data from the Bloomberg website, cleaning and transforming it using Excel's Power Pivot, validating the data with Excel's data tools, and conducting detailed analysis with pivot tables. Finally, a comprehensive dashboard was created using slicers, pivot charts, and pivot tables. VLOOKUP was also utilized in the process.
 
+![Logo](https://github.com/darvikkunal/Excel_Projects/blob/main/Bloomberg_Dashboard_Image.png)
+
 ## Data Cleaning and Transformation
 Data cleaning and transformation were performed using Excel's Power Pivot. This included:
 - Removing duplicates
